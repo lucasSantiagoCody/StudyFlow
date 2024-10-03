@@ -1,4 +1,4 @@
 # StudyFlow
 
-É uma ferramenta desenvolvida para ajudar estudantes
-a organizarem suas tarefas acadêmicas de forma eficiente
+É uma ferramenta desenvolvida para ajudar a organizar 
+tarefas acadêmicas de forma eficiente
