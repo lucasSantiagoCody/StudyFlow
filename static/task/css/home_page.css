@@ -1,3 +1,12 @@
 body{
     background-color: #ccc;
 }
+
+#main{
+    background-color: #736e8a9d;
+    width: 100vw;
+    height: 100vh;
+    border-top-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+    padding: 2%;
+}
